@@ -1,1 +1,1 @@
-# dolphin-settings
+# Configs
